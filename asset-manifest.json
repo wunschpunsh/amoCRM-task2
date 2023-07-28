@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/amoCRM-task2/static/js/main.ed271bb2.js",
+    "static/media/promo-2.png": "/amoCRM-task2/static/media/promo-2.b42c6a92d18c5cebde23.png",
+    "static/media/promo-1.png": "/amoCRM-task2/static/media/promo-1.b5f1d448ffd233d2a530.png",
+    "static/media/news-1.png": "/amoCRM-task2/static/media/news-1.8d5ba6ebbb32667a282c.png",
+    "static/media/news-2.png": "/amoCRM-task2/static/media/news-2.3dcf5eb3f2329c1198e7.png",
+    "static/media/news-5.png": "/amoCRM-task2/static/media/news-5.8b4a5b047875c903e085.png",
+    "static/media/news-4.png": "/amoCRM-task2/static/media/news-4.359d2ef7a975f96f513a.png",
+    "static/media/hero-1.png": "/amoCRM-task2/static/media/hero-1.43b4fb7a9cc388a4f676.png",
+    "static/media/hero-2.png": "/amoCRM-task2/static/media/hero-2.d4f1650de481f8227e0b.png",
+    "static/media/news-3.png": "/amoCRM-task2/static/media/news-3.baeeb7c6a2a5ee51592b.png",
+    "static/media/hero-3.png": "/amoCRM-task2/static/media/hero-3.44ad12894acda0afb321.png",
+    "static/media/Orbitron-Regular.woff": "/amoCRM-task2/static/media/Orbitron-Regular.6c38519d4395bad5e3b3.woff",
+    "static/media/Orbitron-Regular.woff2": "/amoCRM-task2/static/media/Orbitron-Regular.2d2becdbdbbc0dff5116.woff2",
+    "static/media/fire.svg": "/amoCRM-task2/static/media/fire.84116597e0dd9ef3945e139145383b1e.svg",
+    "static/media/basket.svg": "/amoCRM-task2/static/media/basket.2572117c63c21c5d611f0942a85084b7.svg",
+    "index.html": "/amoCRM-task2/index.html",
+    "static/media/line.svg": "/amoCRM-task2/static/media/line.c0a30b18da04c74c7b6fb907a007cdfb.svg",
+    "main.ed271bb2.js.map": "/amoCRM-task2/static/js/main.ed271bb2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ed271bb2.js"
+  ]
+}
